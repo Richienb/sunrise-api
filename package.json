@@ -1,6 +1,6 @@
 {
 	"name": "sunrise-api",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Get the sunrise and sunset times for a given location.",
 	"repository": "https://github.com/Richienb/sunrise-api.git",
 	"author": "Richie Bendall <richiebendall@gmail.com>",
