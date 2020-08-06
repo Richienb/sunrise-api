@@ -13,7 +13,7 @@ module.exports = async (latitude, longitude, { date = "today" } = {}) => {
 		searchParams: {
 			lat: latitude,
 			lng: longitude,
-			date: "today",
+			date,
 			formatted: 0,
 		},
 	}).json()
